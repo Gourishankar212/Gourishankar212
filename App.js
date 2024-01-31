@@ -42,7 +42,7 @@ export default function App() {
       <View style = {styles.bottom}>
       <Button
        style = {styles.bottom}
-       title = 'save' 
+       title = 'save'
        onPress={nextpage}/>
       </View>
       <Home/>
